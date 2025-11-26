@@ -17,7 +17,7 @@
       <!-- Children -->
       <h3 class="font-semibold my-4">Children</h3>
 
-      <div v-for="(_, index) in form.children" class="border border-dashed border-gray-600 p-4 rounded-lg mt-4">
+      <div v-for="(child, index) in r$.children.$each" class="border border-dashed border-gray-600 p-4 rounded-lg mt-4">
         <h3 class="font-semibold uppercase text-xs text-gray-400 mb-3"> Child {{ index + 1 }} </h3>
 
         <div class="grid grid-cols-2 gap-x-6 gap-y-4">
@@ -25,22 +25,22 @@
           <div class="flex flex-col gap-2">
             <label required>Full Name</label>
             <input
-              v-model="form.children[index].fullName"
+              v-model="child.fullName.$value"
               type="text"
               class="border border-gray-300 dark:border-gray-700 dark:bg-neutral-600 dark:text-gray-200 rounded p-2"
             />
-            <FieldError :errors="r$.$errors.children.$each[index].fullName" />
+            <FieldError :errors="child.fullName.$errors" />
           </div>
 
           <!-- Age -->
           <div class="flex flex-col gap-2">
             <label required>Age</label>
             <input
-              v-model="form.children[index].age"
+              v-model="child.age.$value"
               type="number"
               class="border border-gray-300 dark:border-gray-700 dark:bg-neutral-600 dark:text-gray-200 rounded p-2"
             />
-            <FieldError :errors="r$.$errors.children.$each[index].age" />
+            <FieldError :errors="child.age.$errors" />
           </div>
         </div>
       </div>
