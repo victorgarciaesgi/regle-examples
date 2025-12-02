@@ -11,11 +11,11 @@ importers:
   examples/advanced-example:
     dependencies:
       '@regle/core':
-        specifier: 1.11.0
-        version: 1.11.0(pinia@3.0.3(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
+        specifier: 1.12.0
+        version: 1.12.0(pinia@3.0.3(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
       '@regle/rules':
-        specifier: 1.11.0
-        version: 1.11.0(pinia@3.0.3(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
+        specifier: 1.12.0
+        version: 1.12.0(pinia@3.0.3(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
       check-password-strength:
         specifier: 3.0.0
         version: 3.0.0
@@ -60,11 +60,11 @@ importers:
   examples/collections-example:
     dependencies:
       '@regle/core':
-        specifier: 1.11.0
-        version: 1.11.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
+        specifier: 1.12.0
+        version: 1.12.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
       '@regle/rules':
-        specifier: 1.11.0
-        version: 1.11.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
+        specifier: 1.12.0
+        version: 1.12.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
       vue:
         specifier: 3.5.24
         version: 3.5.24(typescript@5.9.3)
@@ -100,11 +100,11 @@ importers:
   examples/conditional-rules-example:
     dependencies:
       '@regle/core':
-        specifier: 1.11.0
-        version: 1.11.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
+        specifier: 1.12.0
+        version: 1.12.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
       '@regle/rules':
-        specifier: 1.11.0
-        version: 1.11.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
+        specifier: 1.12.0
+        version: 1.12.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
       vue:
         specifier: 3.5.24
         version: 3.5.24(typescript@5.9.3)
@@ -140,11 +140,11 @@ importers:
   examples/custom-rules-example:
     dependencies:
       '@regle/core':
-        specifier: 1.11.0
-        version: 1.11.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
+        specifier: 1.12.0
+        version: 1.12.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
       '@regle/rules':
-        specifier: 1.11.0
-        version: 1.11.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
+        specifier: 1.12.0
+        version: 1.12.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
       vue:
         specifier: 3.5.24
         version: 3.5.24(typescript@5.9.3)
@@ -180,11 +180,11 @@ importers:
   examples/required-indicators-example:
     dependencies:
       '@regle/core':
-        specifier: 1.11.0
-        version: 1.11.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
+        specifier: 1.12.0
+        version: 1.12.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
       '@regle/rules':
-        specifier: 1.11.0
-        version: 1.11.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
+        specifier: 1.12.0
+        version: 1.12.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
       vue:
         specifier: 3.5.24
         version: 3.5.24(typescript@5.9.3)
@@ -220,11 +220,11 @@ importers:
   examples/server-validation-example:
     dependencies:
       '@regle/core':
-        specifier: 1.11.0
-        version: 1.11.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
+        specifier: 1.12.0
+        version: 1.12.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
       '@regle/rules':
-        specifier: 1.11.0
-        version: 1.11.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
+        specifier: 1.12.0
+        version: 1.12.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
       vue:
         specifier: 3.5.24
         version: 3.5.24(typescript@5.9.3)
@@ -260,14 +260,14 @@ importers:
   examples/simple-example:
     dependencies:
       '@regle/core':
-        specifier: 1.11.0
-        version: 1.11.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
+        specifier: 1.12.0
+        version: 1.12.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
       '@regle/rules':
-        specifier: 1.11.0
-        version: 1.11.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
+        specifier: 1.12.0
+        version: 1.12.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
       '@regle/schemas':
-        specifier: 1.11.0
-        version: 1.11.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))(zod@4.1.12)
+        specifier: 1.12.0
+        version: 1.12.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))(zod@4.1.12)
       vue:
         specifier: 3.5.24
         version: 3.5.24(typescript@5.9.3)
@@ -726,8 +726,8 @@ packages:
   '@polka/url@1.0.0-next.29':
     resolution: {integrity: sha512-wwQAWhWSuHaag8c4q/KN/vCoeOJYshAIvMQwD4GpSb3OiZklFfvAgmj0VCBBImRpuF/aFgIRzllXlVX93Jevww==}
 
-  '@regle/core@1.11.0':
-    resolution: {integrity: sha512-2E5ONk7eTmAELZUff9F/G8Yklu6Cm/SIYut6/MOZnJgAf+piUKSRHEOWnMyuOkOiw13xF6G1qabOEWiYeasvWA==}
+  '@regle/core@1.12.0':
+    resolution: {integrity: sha512-SoR9XxVajE8rWIfkzsGoGlo805D7mg0068MRddGmb49zmIonoLIXhD6eaEJdzCWx5pf2u8nuNUd00X/dn4q1WA==}
     peerDependencies:
       pinia: '>=2.2.5'
       vue: '>=3.3.0'
@@ -735,11 +735,11 @@ packages:
       pinia:
         optional: true
 
-  '@regle/rules@1.11.0':
-    resolution: {integrity: sha512-aDUCvIE5oVasTTSHEz9yUXd9sHmlYzdY7w1/DLvZeE0o45ZNUOsgR+ufUwCdTUVDRC4gPttfwWV950opthaXcw==}
+  '@regle/rules@1.12.0':
+    resolution: {integrity: sha512-Pb82OjmUPTbpWJTk+oKX+NRtTqJcQ5aPF0zKExVfiQkjsvMvityKTy/+pIAAxdPwTXPMHludzh0HFx5KT7y9eA==}
 
-  '@regle/schemas@1.11.0':
-    resolution: {integrity: sha512-7tpKoTKBpPCnulwFwRuTGpsZdVgCEti/Z1XPnu48/kBilh8iFo7lTF/bZgzBxkjetLIr6k8sA26yh6UShVfG+g==}
+  '@regle/schemas@1.12.0':
+    resolution: {integrity: sha512-TA1deJg6Ja54NISgJeb5daGahWCmtIzthLxML6+8surOA9mirRERFIyVxnVR2krC+t0aCEXJa4MoW5ss0RqWNw==}
     peerDependencies:
       arktype: ^2.1.0
       valibot: ^1.0.0
@@ -2154,7 +2154,7 @@ snapshots:
 
   '@polka/url@1.0.0-next.29': {}
 
-  '@regle/core@1.11.0(pinia@3.0.3(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))':
+  '@regle/core@1.12.0(pinia@3.0.3(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))':
     dependencies:
       '@standard-schema/spec': 1.0.0
       '@vue/devtools-api': 7.7.9
@@ -2163,7 +2163,7 @@ snapshots:
     optionalDependencies:
       pinia: 3.0.3(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3))
 
-  '@regle/core@1.11.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))':
+  '@regle/core@1.12.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))':
     dependencies:
       '@standard-schema/spec': 1.0.0
       '@vue/devtools-api': 7.7.9
@@ -2172,26 +2172,26 @@ snapshots:
     optionalDependencies:
       pinia: 3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3))
 
-  '@regle/rules@1.11.0(pinia@3.0.3(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))':
+  '@regle/rules@1.12.0(pinia@3.0.3(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))':
     dependencies:
-      '@regle/core': 1.11.0(pinia@3.0.3(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
+      '@regle/core': 1.12.0(pinia@3.0.3(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
       type-fest: 5.2.0
     transitivePeerDependencies:
       - pinia
       - vue
 
-  '@regle/rules@1.11.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))':
+  '@regle/rules@1.12.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))':
     dependencies:
-      '@regle/core': 1.11.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
+      '@regle/core': 1.12.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
       type-fest: 5.2.0
     transitivePeerDependencies:
       - pinia
       - vue
 
-  '@regle/schemas@1.11.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))(zod@4.1.12)':
+  '@regle/schemas@1.12.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))(zod@4.1.12)':
     dependencies:
-      '@regle/core': 1.11.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
-      '@regle/rules': 1.11.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
+      '@regle/core': 1.12.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
+      '@regle/rules': 1.12.0(pinia@3.0.4(typescript@5.9.3)(vue@3.5.24(typescript@5.9.3)))(vue@3.5.24(typescript@5.9.3))
       '@standard-schema/spec': 1.0.0
       type-fest: 5.2.0
     optionalDependencies:
