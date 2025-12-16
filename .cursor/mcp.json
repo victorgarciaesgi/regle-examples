@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "regle": {
+      "command": "npx",
+      "args": ["@regle/mcp-server"]
+    }
+  }
+}
