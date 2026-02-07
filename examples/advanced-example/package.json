@@ -10,8 +10,8 @@
     "typecheck": "vue-tsc --noEmit"
   },
   "dependencies": {
-    "@regle/core": "1.17.0",
-    "@regle/rules": "1.17.0",
+    "@regle/core": "1.18.3",
+    "@regle/rules": "1.18.3",
     "check-password-strength": "3.0.0",
     "pinia": "3.0.3",
     "sass": "1.89.2",
