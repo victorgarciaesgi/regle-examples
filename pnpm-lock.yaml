@@ -11,11 +11,11 @@ importers:
   examples/advanced-example:
     dependencies:
       '@regle/core':
-        specifier: 1.18.3
-        version: 1.18.3(pinia@3.0.3)(vue@3.5.24)
+        specifier: 1.20.1
+        version: 1.20.1(pinia@3.0.3)(vue@3.5.24)
       '@regle/rules':
-        specifier: 1.18.3
-        version: 1.18.3(pinia@3.0.3)(vue@3.5.24)
+        specifier: 1.20.1
+        version: 1.20.1(pinia@3.0.3)(vue@3.5.24)
       check-password-strength:
         specifier: 3.0.0
         version: 3.0.0
@@ -60,11 +60,11 @@ importers:
   examples/collections-example:
     dependencies:
       '@regle/core':
-        specifier: 1.18.3
-        version: 1.18.3(pinia@3.0.3)(vue@3.5.24)
+        specifier: 1.20.1
+        version: 1.20.1(pinia@3.0.3)(vue@3.5.24)
       '@regle/rules':
-        specifier: 1.18.3
-        version: 1.18.3(pinia@3.0.3)(vue@3.5.24)
+        specifier: 1.20.1
+        version: 1.20.1(pinia@3.0.3)(vue@3.5.24)
       vue:
         specifier: 3.5.24
         version: 3.5.24(typescript@5.9.3)
@@ -100,11 +100,11 @@ importers:
   examples/conditional-rules-example:
     dependencies:
       '@regle/core':
-        specifier: 1.18.3
-        version: 1.18.3(pinia@3.0.3)(vue@3.5.24)
+        specifier: 1.20.1
+        version: 1.20.1(pinia@3.0.3)(vue@3.5.24)
       '@regle/rules':
-        specifier: 1.18.3
-        version: 1.18.3(pinia@3.0.3)(vue@3.5.24)
+        specifier: 1.20.1
+        version: 1.20.1(pinia@3.0.3)(vue@3.5.24)
       vue:
         specifier: 3.5.24
         version: 3.5.24(typescript@5.9.3)
@@ -140,11 +140,11 @@ importers:
   examples/custom-rules-example:
     dependencies:
       '@regle/core':
-        specifier: 1.18.3
-        version: 1.18.3(pinia@3.0.3)(vue@3.5.24)
+        specifier: 1.20.1
+        version: 1.20.1(pinia@3.0.3)(vue@3.5.24)
       '@regle/rules':
-        specifier: 1.18.3
-        version: 1.18.3(pinia@3.0.3)(vue@3.5.24)
+        specifier: 1.20.1
+        version: 1.20.1(pinia@3.0.3)(vue@3.5.24)
       vue:
         specifier: 3.5.24
         version: 3.5.24(typescript@5.9.3)
@@ -180,11 +180,11 @@ importers:
   examples/required-indicators-example:
     dependencies:
       '@regle/core':
-        specifier: 1.18.3
-        version: 1.18.3(pinia@3.0.3)(vue@3.5.24)
+        specifier: 1.20.1
+        version: 1.20.1(pinia@3.0.3)(vue@3.5.24)
       '@regle/rules':
-        specifier: 1.18.3
-        version: 1.18.3(pinia@3.0.3)(vue@3.5.24)
+        specifier: 1.20.1
+        version: 1.20.1(pinia@3.0.3)(vue@3.5.24)
       vue:
         specifier: 3.5.24
         version: 3.5.24(typescript@5.9.3)
@@ -220,11 +220,11 @@ importers:
   examples/server-validation-example:
     dependencies:
       '@regle/core':
-        specifier: 1.18.3
-        version: 1.18.3(pinia@3.0.3)(vue@3.5.24)
+        specifier: 1.20.1
+        version: 1.20.1(pinia@3.0.3)(vue@3.5.24)
       '@regle/rules':
-        specifier: 1.18.3
-        version: 1.18.3(pinia@3.0.3)(vue@3.5.24)
+        specifier: 1.20.1
+        version: 1.20.1(pinia@3.0.3)(vue@3.5.24)
       vue:
         specifier: 3.5.24
         version: 3.5.24(typescript@5.9.3)
@@ -260,14 +260,14 @@ importers:
   examples/simple-example:
     dependencies:
       '@regle/core':
-        specifier: 1.18.3
-        version: 1.18.3(pinia@3.0.3)(vue@3.5.24)
+        specifier: 1.20.1
+        version: 1.20.1(pinia@3.0.3)(vue@3.5.24)
       '@regle/rules':
-        specifier: 1.18.3
-        version: 1.18.3(pinia@3.0.3)(vue@3.5.24)
+        specifier: 1.20.1
+        version: 1.20.1(pinia@3.0.3)(vue@3.5.24)
       '@regle/schemas':
-        specifier: 1.18.3
-        version: 1.18.3(vue@3.5.24)(zod@4.1.12)
+        specifier: 1.20.1
+        version: 1.20.1(vue@3.5.24)(zod@4.1.12)
       vue:
         specifier: 3.5.24
         version: 3.5.24(typescript@5.9.3)
@@ -1024,8 +1024,8 @@ packages:
     resolution: {integrity: sha512-wwQAWhWSuHaag8c4q/KN/vCoeOJYshAIvMQwD4GpSb3OiZklFfvAgmj0VCBBImRpuF/aFgIRzllXlVX93Jevww==}
     dev: true
 
-  /@regle/core@1.18.3(pinia@3.0.3)(vue@3.5.24):
-    resolution: {integrity: sha512-5n/VNMCj2melAejsr7AHoVtlK2hWfIA97gW7mAF1biHmjHnOkzKBFzz2QXSOXYifEJrXFc3gldsWB583ET8NIA==}
+  /@regle/core@1.20.1(pinia@3.0.3)(vue@3.5.24):
+    resolution: {integrity: sha512-BdybQ3mnEH76NvyAnt82Nexw/9an3bX+J16aUhVbkF0Ykuw+BhOmgRpo0dLJo43c4eTTZLz745d7NBoDH32ybg==}
     peerDependencies:
       pinia: '>=2.2.5'
       vue: '>=3.3.0'
@@ -1036,22 +1036,22 @@ packages:
       '@standard-schema/spec': 1.1.0
       '@vue/devtools-api': 7.7.9
       pinia: 3.0.3(typescript@5.9.3)(vue@3.5.24)
-      type-fest: 5.4.3
+      type-fest: 5.4.4
       vue: 3.5.24(typescript@5.9.3)
     dev: false
 
-  /@regle/rules@1.18.3(pinia@3.0.3)(vue@3.5.24):
-    resolution: {integrity: sha512-hiIYv+o/coiC2+If5tXgTj+uW9HN6EaiTiQWZszu9tUW5wHVkwjn22tEwJSpj+isiD6wHk5dT6JEQiFPSxXbEg==}
+  /@regle/rules@1.20.1(pinia@3.0.3)(vue@3.5.24):
+    resolution: {integrity: sha512-2Pn/2dbpMjgYxT+SOOQTapnWgwy0R1xFWCcaI9DS7IzgwwLh5COVViZhBxucQOrmAYCUAry9MEdcpfDEOIby8w==}
     dependencies:
-      '@regle/core': 1.18.3(pinia@3.0.3)(vue@3.5.24)
-      type-fest: 5.4.3
+      '@regle/core': 1.20.1(pinia@3.0.3)(vue@3.5.24)
+      type-fest: 5.4.4
     transitivePeerDependencies:
       - pinia
       - vue
     dev: false
 
-  /@regle/schemas@1.18.3(vue@3.5.24)(zod@4.1.12):
-    resolution: {integrity: sha512-Ey6y5hRnLBFK7OfZXne6r2RfUbtK5qbTv1VdwYWHQZU34KPmmO8wwv/yF3KATPX5DmyXEHqeXpm06wVG6LVSZw==}
+  /@regle/schemas@1.20.1(vue@3.5.24)(zod@4.1.12):
+    resolution: {integrity: sha512-4LMUXoD4pu4TMgSfOp4C5XIjjjWUWkpi8srVu0x93rgBTToVUbgLgSzq/7+rSsi3QOfUKThNlK+o8QSKuzkkbA==}
     peerDependencies:
       arktype: ^2.1.0
       valibot: ^1.0.0
@@ -1064,10 +1064,10 @@ packages:
       zod:
         optional: true
     dependencies:
-      '@regle/core': 1.18.3(pinia@3.0.3)(vue@3.5.24)
-      '@regle/rules': 1.18.3(pinia@3.0.3)(vue@3.5.24)
+      '@regle/core': 1.20.1(pinia@3.0.3)(vue@3.5.24)
+      '@regle/rules': 1.20.1(pinia@3.0.3)(vue@3.5.24)
       '@standard-schema/spec': 1.1.0
-      type-fest: 5.4.3
+      type-fest: 5.4.4
       zod: 4.1.12
     transitivePeerDependencies:
       - pinia
@@ -2429,8 +2429,8 @@ packages:
     resolution: {integrity: sha512-Y/arvbn+rrz3JCKl9C4kVNfTfSm2/mEp5FSz5EsZSANGPSlQrpRI5M4PKF+mJnE52jOO90PnPSc3Ur3bTQw0gA==}
     dev: true
 
-  /type-fest@5.4.3:
-    resolution: {integrity: sha512-AXSAQJu79WGc79/3e9/CR77I/KQgeY1AhNvcShIH4PTcGYyC4xv6H4R4AUOwkPS5799KlVDAu8zExeCrkGquiA==}
+  /type-fest@5.4.4:
+    resolution: {integrity: sha512-JnTrzGu+zPV3aXIUhnyWJj4z/wigMsdYajGLIYakqyOW1nPllzXEJee0QQbHj+CTIQtXGlAjuK0UY+2xTyjVAw==}
     engines: {node: '>=20'}
     dependencies:
       tagged-tag: 1.0.0
